@@ -1,0 +1,22 @@
+{
+  "name": "kamiolinails",
+  "version": "1.0.0",
+  "description": "web site",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YovkoGospodinov/NailsProject.git"
+  },
+  "keywords": [
+    "Nails"
+  ],
+  "author": "Yovko Gospodinov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YovkoGospodinov/NailsProject/issues"
+  },
+  "homepage": "https://github.com/YovkoGospodinov/NailsProject#readme"
+}
