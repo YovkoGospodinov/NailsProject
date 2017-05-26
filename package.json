@@ -1,6 +1,6 @@
 {
     "name": "Kamioli",
-    "version": "1.0",
+    "version": "6.10.2",
     "description": "Kamioli's projects",
     "engines": {
         "node": "6.10.2"
