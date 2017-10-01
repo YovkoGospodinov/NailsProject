@@ -1,26 +1,42 @@
 {
-    "name": "Kamioli",
-    "version": "6.10.2",
-    "description": "Kamioli's projects",
-    "engines": {
-        "node": "6.10.2"
-    },
-    "main": "index.js",
-    "scripts": {
-        "start": "node index.js"
-    },
-    "dependencies": {
-        "ejs": "2.5.6",
-        "express": "4.15.2"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/YovkoGospodinov/NailsProject"
-    },
-    "keywords": [
-        "kamioli",
-        "nails",
-        "candies"
-    ],
-    "license": "MIT"
+  "name": "Kamioli",
+  "version": "6.10.2",
+  "description": "Kamioli's projects",
+  "engines": {
+    "node": "6.10.2"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "minimatch": "^3.0.2",
+    "bootstrap": "^4.0.0-beta",
+    "browser-sync": "2.18.13",
+    "ejs": "2.5.6",
+    "express": "4.15.2",
+    "font-awesome": "4.7.0",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "3.7.0",
+    "gulp-header": "1.8.9",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "3.0.0",
+    "jquery": "^3.2.1",
+    "jquery.easing": "^1.4.1",
+    "popper.js": "^1.11.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YovkoGospodinov/NailsProject"
+  },
+  "keywords": [
+    "kamioli",
+    "nails",
+    "candies"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "gulp-dependencies-changed": "^1.0.2"
+  }
 }
