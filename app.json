@@ -1,8 +1,8 @@
 {
-    "name": "Kamioli starts on: Node.js",
+    "name": "Kamioli",
     "description": "Kamioli Projects",
     "repository": "https://github.com/YovkoGospodinov/NailsProject",
-    "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/master/public/node.svg",
+    "logo": "",
     "keywords": ["kamioli", "nails", "candies"],
-    "image": "heroku/nodejs"
+    "image": ""
 }
